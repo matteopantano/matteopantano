@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Matteo</h1>
-<h2 align="center">Robotics PhD Student at TUM. Working in facilitating the usage of robots by up-skilling operators</h3>
+<h3 align="center">Robotics PhD Student at TUM. Working in facilitating the usage of robots by up-skilling operators</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matteopantano&label=Profile%20views&color=0e75b6&style=flat" alt="matteopantano" /> </p>
 
